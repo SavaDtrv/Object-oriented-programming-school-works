@@ -1,0 +1,6 @@
+The task is about calculating :
+	1. Calculating emissions
+	2. Calculating taxes
+	3. Fuel consumption
+	4. Max distance the car can travel
+	5. Calculating gears
